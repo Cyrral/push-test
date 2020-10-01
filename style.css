@@ -1,0 +1,58 @@
+* {
+  margin: 0px;
+  padding: 0px
+}
+
+body {
+  background-image: url(https://i.pinimg.com/originals/8f/f7/8f/8ff78fc9e9735c521b733ecafd4e194e.jpg);
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+
+.wrapper {
+  background-color: rgba(56, 114, 108, 1);
+}
+
+.wrapper {
+  width: 75vw;
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 35px;
+}
+
+.dog {
+  display: flex;
+  margin-bottom: 35px;
+}
+
+.header img {
+  height: 150px;
+}
+
+img {
+  height: 350px;
+  margin-right: 16px;
+  margin-left:16px;
+  border-radius: 50%;
+}
+
+h1, h2 {
+  font-family: 'Fredoka One', cursive;
+}
+
+h1 {
+  font-size: 90px;
+}
+
+h2 {
+  font-size: 72px;
+}
+
+p {
+  font-size: 24px;
+}
